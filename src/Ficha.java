@@ -1,11 +1,11 @@
-public class Ficha{
+public class Ficha {
     private char ficha;
 
     public Ficha(char ficha){
         this.ficha = ficha;
     }
 
-    //Getters y Setters de los atributos de la clase Ficha
+    //Getters y Setters de los atributos de la clase Jugador
     public char getFicha(){
         return ficha;
     }
@@ -14,3 +14,4 @@ public class Ficha{
         this.ficha = ficha;
     }
 }
+
